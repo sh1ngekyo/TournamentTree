@@ -1,5 +1,5 @@
 # TournamentTree
-Tournamet Tree / Selection Tree / Winner Tree / Looser Tree 
+Tournamet Tree / Selection Tree / Winner Tree / Loser Tree 
 
 A small example of the Tournament Tree data structure. I don't vouch for the correctness of the entire code. Maybe it will be useful for someone to write their solution.
 
